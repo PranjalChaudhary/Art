@@ -11,7 +11,6 @@ def random_color():
     b = randint(0, 255)
     return r, g, b
 
-
 timmy = Turtle()
 timmy.shape("turtle")
 timmy.color("red")

@@ -24,7 +24,6 @@ screen.bgcolor(color_list.pop(1))
 def random_color():
     return choice(color_list)
 
-
 timmy.penup()
 timmy.setpos(-725, -365)
 Initial_x = timmy.xcor()

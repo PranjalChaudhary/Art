@@ -24,6 +24,7 @@ for i in range(5000):
     timmy.forward(35)
     choice(angles)(choice(angle_values))
 
+
 screen = Screen()
 screen.screensize(300,300)
 screen.exitonclick()
